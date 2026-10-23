@@ -1,0 +1,10 @@
+{
+  "_descripcion": "Fixture controlado (NO son datos reales): el array de precipitación tiene una posición menos que time.",
+  "utc_offset_seconds": 0,
+  "hourly": {
+    "time": ["2026-09-01T00:00", "2026-09-01T01:00", "2026-09-01T02:00"],
+    "temperature_2m": [20.1, 20.4, 20.9],
+    "relative_humidity_2m": [60, 61, 62],
+    "precipitation": [0.0, 0.3]
+  }
+}
